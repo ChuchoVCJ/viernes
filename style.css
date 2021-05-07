@@ -1,0 +1,26 @@
+#caja1 h1{
+    align-items: center;
+    font-size: 24px;
+}
+
+#caja1 {
+    align-items: center;
+    background-color: cadetblue;
+    background-size: cover;
+    border: double 5px;
+    border-bottom: none;
+    min-height: 100px;
+    width: 300px;
+}
+
+#caja2 {
+    padding-top: 10px;
+    border: double 5px;
+    border-color: #000000;
+    align-items: center;
+    position: relative;
+    background-color: cadetblue;
+    background-size: cover;
+    min-height: 100px;
+    width: 300px;
+}
